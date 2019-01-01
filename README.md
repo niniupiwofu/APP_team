@@ -68,50 +68,50 @@
 
 比达咨询研究发现，2015年中国运动健身类app活跃用户规模突破2000万人，同比增长了92,1%。预计2018年活跃用户规模将突破7000万人，用户规模在较长时间内将保持高速增长态势。
 
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E6%AF%94%E8%BE%BE%E6%95%B0%E6%8D%AE.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E6%AF%94%E8%BE%BE%E6%95%B0%E6%8D%AE.png?raw=true)
 
 ###### 市场现状
 
 目前市场上健身运动类APP的活动人数依然非常多，艾瑞数剧显示今年11月还有超过2亿台的用户使用过此类的APP。
 
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E5%81%A5%E5%BA%B7%E7%B1%BBapp%E5%B8%82%E5%9C%BA%E7%8E%B0%E7%8A%B6.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E5%81%A5%E5%BA%B7%E7%B1%BBapp%E5%B8%82%E5%9C%BA%E7%8E%B0%E7%8A%B6.png?raw=true)
 
 ### 三、竞品分析
 ###### 1.竞品选择
 根据比达咨询数据中心监测数据显示，2017年9月份主要运动健身类App月活跃用户数方面，悦动圈、Keep、咕咚运动分列前三位。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/2017%E5%B9%B49%E6%9C%88%E4%BB%BD%E4%B8%BB%E8%A6%81%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB%E7%B1%BBApp%E6%9C%88%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E6%95%B0.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/2017%E5%B9%B49%E6%9C%88%E4%BB%BD%E4%B8%BB%E8%A6%81%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB%E7%B1%BBApp%E6%9C%88%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E6%95%B0.png?raw=true)
 
 用户人均日启动次数方面，悦动圈以5.9次排名第一，用户活跃度最高。而在用户平均单次使用时长方面，Keep以13.2分钟位居首位，用户粘性最强。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E7%94%A8%E6%88%B7%E4%BA%BA%E5%9D%87%E6%97%A5%E5%90%AF%E5%8A%A8%E6%AC%A1%E6%95%B0.jpg?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E7%94%A8%E6%88%B7%E4%BA%BA%E5%9D%87%E6%97%A5%E5%90%AF%E5%8A%A8%E6%AC%A1%E6%95%B0.jpg?raw=true)
 
 本节竞品分析的目的：分析产品的核心功能，以寻找优化方向，帮助产品核心功能不断改进完善，从而提高产品的核心竞争力；因此选择产品形态和功能最接近且月活跃用户数排名相对靠前的Keep作为直接竞品，并选择主打跑步+社区且月活跃用户数和用户活跃度均排在首位的悦动圈为间接竞品。
 
 ###### 2.直接竞品分析
 Keep作为一款中国出名的健身健康类APP，在中国拥有相当高的人气，keep一直以专业的训练指导著称。作为国内早期就开始从事移动健身健康应用之一，经过5年的发展，Keep对外正式宣布注册用户数突破1亿大关。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/Keep.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/Keep.png?raw=true)
 
 产品主打健身减肥、身材管理等的卡路里管理，产品提供了丰富且强大的健身动作指导的资料库，可以添加的运动种类非常丰富，并且同一运动有详细细分；可以记录你走路的步数，自动记录你消耗的卡路里，运动的时常会被记录在首页，直观可以看到运动时长，支持同时添加多个运动。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E7%A4%BE%E5%8C%BA.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E7%A4%BE%E5%8C%BA.png?raw=true)
 
 在底部的列表栏里添加了社区功能，用户可以在其中观看别的用户上传的健身视频，包括一些方法教程、鼓励健身视频，也可以阅览关于健康小常识的文章，同时在文章底部有相应文章推荐，从而学习一定的健身知识。同时顶部也有饮食和同城等的选项，给用户提供了更多分享交流的地方。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E5%8F%91%E7%8E%B0.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E5%8F%91%E7%8E%B0.png?raw=true)
 
 社区和动态也提供了用户交流的地方，类似于话题讨论组，社区的参与人数较多，很多帖子也有较高的观看次数，论坛的主题丰富，包括除了健身减肥，还包括了一些饮食、日常生活等生活方面的主题。论坛也提供了精准的搜索功能，用户可以根据题目、作者名称、标签、日期、关键词进行搜索。
 
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/keep%E4%BA%BA%E6%95%B0%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.jpg?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/keep%E4%BA%BA%E6%95%B0%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.jpg?raw=true)
 通过以上数据可以发现，Keep的用户年龄主要集中在35岁以下，占比约75%。而性别分布中，女性用户明显高于男性，男女比例接近1:2，Keep的目标用户定位以年龄18～35岁的大学生、年轻上班族、都市白领群体为主。他们主要生活在一二线大中型城市，生活节奏相对较快、生活压力也较大，伴随着消费升级和更为先进理念的融合与冲击，他们对运动、健康管理的意识也觉醒的更早，这个人群的运动健身需求也大致相同。
 
 同时它面向的用户群体是较为专业的运动健身人群，或者决心较大的减肥人群，因为此软件提供的功能需要更强的专业性，比如在吃饭时需要精确地提供食品数量等消息，在运动后也需要提供较为精确的运动数据，同时也较少提供内容与课程上的协助，用户的使用门槛较高。
 
 ##### 3.间接竞品分析
 悦动圈主打的健走、跑步门槛更低，年龄覆盖层次也更加广泛，得益于有效的激励和定期的线下赛事组织，悦动圈一直有着较高的用户粘性和活动参与度，因此日活人数也远高于其他健身APP。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE.png?raw=true)
 
 悦动圈主要用红包的形式来吸引用户进行运动。它在底部的列表栏里添加了赛事这一选项，里面罗列了一系列的“赢红包”的赛事活动，增加了一定的趣味性，吸引用户参加比赛。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E8%B5%9B%E4%BA%8B.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E8%B5%9B%E4%BA%8B.png?raw=true)
 
 同时也设有“圈子”功能，用户可以在里面分享自己的动态。与keep不同的是，悦动圈的视频并不局限于健身健康类视频，它们涵盖了更多类型的视频动态在其中（类似抖音），增加了更多的趣味性。
-![image](https://github.com/niniupiwofu/APP-final-project/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E5%9C%88%E5%AD%90.png?raw=true)
+![image](https://github.com/niniupiwofu/APP_team/blob/master/img/%E6%82%A6%E5%8A%A8%E5%9C%88%E5%9C%88%E5%AD%90.png?raw=true)
 
 ##### 4.总结
 keep是一款专业的应用，其核心竞争力是**丰富的运动库**，用户在应用内可以得到专业的训练动作指导，对自己的身体健康管理有更加科学和详尽的把握，其产品定位**较为专业。** 
