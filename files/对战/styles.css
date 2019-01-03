@@ -2560,8 +2560,8 @@
 #u1251 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:517px;
+  left:648px;
+  top:527px;
   width:175px;
   height:50px;
   font-size:20px;
@@ -3042,7 +3042,7 @@
   left:0px;
   top:0px;
   width:358px;
-  height:170px;
+  height:124px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -3057,10 +3057,10 @@
 #u1264 {
   border-width:0px;
   position:absolute;
-  left:565px;
-  top:29px;
+  left:553px;
+  top:82px;
   width:358px;
-  height:170px;
+  height:124px;
 }
 #u1264_text {
   border-width:0px;
@@ -3090,8 +3090,8 @@
 #u1265 {
   border-width:0px;
   position:absolute;
-  left:585px;
-  top:50px;
+  left:573px;
+  top:92px;
   width:300px;
   height:110px;
   font-size:18px;
@@ -3123,8 +3123,8 @@
 #u1266 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:600px;
+  left:648px;
+  top:619px;
   width:175px;
   height:50px;
   font-size:20px;
@@ -3156,8 +3156,8 @@
 #u1267 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:682px;
+  left:648px;
+  top:714px;
   width:175px;
   height:50px;
   font-size:20px;
@@ -3189,8 +3189,8 @@
 #u1268 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:764px;
+  left:648px;
+  top:810px;
   width:175px;
   height:50px;
   font-size:20px;
@@ -3208,31 +3208,35 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:175px;
-  height:50px;
+  width:91px;
+  height:22px;
   background:inherit;
-  background-color:rgba(22, 155, 213, 1);
+  background-color:rgba(255, 255, 255, 0);
   border:none;
-  border-radius:5px;
+  border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:20px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
 }
 #u1269 {
   border-width:0px;
   position:absolute;
-  left:650px;
-  top:848px;
-  width:175px;
-  height:50px;
-  font-size:20px;
+  left:553px;
+  top:42px;
+  width:91px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
 }
 #u1269_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:13px;
-  width:171px;
-  word-wrap:break-word;
+  left:0px;
+  top:0px;
+  width:91px;
+  white-space:nowrap;
 }
